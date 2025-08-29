@@ -1,0 +1,4 @@
+riadok1
+riadokPython2
+riadok3
+riadokpython4
